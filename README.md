@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/wass4/WassTestPipeline/_apis/build/status/ssim-krassimir.azurepipeline)](https://dev.azure.com/wass4/WassTestPipeline/_build/latest?definitionId=1)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
